@@ -15,11 +15,11 @@ Topics covered (as of early 2018):
 - Actor-critic methods.
 - Zero-sum games. Regret matching and fictitious play. 
  
- Some great resources:
+Some great resources:
  
- - David Silver lectures.
- - The classical book from Sutton and Barto.
- - Yandex Practical RL course.
+- David Silver lectures.
+- The classical book from Sutton and Barto.
+- Yandex Practical RL course.
  
  
- You can find the easy to read PDF/epub version in Leanpub (https://leanpub.com/rlpython)
+You can find the easy to read PDF/epub version in Leanpub (https://leanpub.com/rlpython).
