@@ -1,3 +1,0 @@
-jupyter nbconvert *.ipynb --to markdown
-
-pandoc -o rlbook.epub --webtex -t epub2 --highlight-style zenburn title.txt "Ch1 - Welcome to Reinforcement Learning.md" "Ch2 - Markov Decision Processes.md" "Ch3 - Monte Carlo Learning.md" "Ch4 - Temporal Difference Learning.md" "Ch5 - Function approximation.md" "Ch6 - DQN and Experience Replay.md" "Ch7 - Policy Optimisation.md" "Ch8 - Actor Critic Methods.md" "Ch9 - Bandits.md" "Ch10 - Zero-sum games.md" "Ch11 - POMDPs.md" "Ch12 - Case studies.md"
