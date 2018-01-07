@@ -18,8 +18,13 @@ Topics covered (as of early 2018):
 Some great resources:
  
 - David Silver lectures.
-- The classical book from Sutton and Barto.
-- Yandex Practical RL course.
+- The classical book from Sutton and Barto, [second edition](http://www.incompleteideas.net/book/bookdraft2018jan1.pdf) now complete.
+- [Yandex Practical RL course](https://github.com/yandexdataschool/Practical_RL).
  
+No time for the full David Silver's course? Try:
+- [Introduction to Reinforcement Learning](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/)
+- [Deep Reinforcement Learning, Pieter Abbeel](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/)
+
+For the applications in online advertising (retargeting) check [Nicholas Le Roux talk](http://videolectures.net/deeplearning2017_le_roux_recommendation_system/?q=le%20roux)
  
-You can find the easy to read PDF/epub version in Leanpub (https://leanpub.com/rlpython).
+ You can find the easy to read PDF/epub version in Leanpub (https://leanpub.com/rlpython).
