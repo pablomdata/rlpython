@@ -27,4 +27,4 @@ No time for the full David Silver's course? Try:
 
 For the applications in online advertising (retargeting) check [Nicholas Le Roux talk](http://videolectures.net/deeplearning2017_le_roux_recommendation_system/?q=le%20roux)
  
- You can find the easy to read PDF/epub version in Leanpub (https://leanpub.com/rlpython).
+<!--You can buy the PDF/epub version in Leanpub (https://leanpub.com/rlpython). If you are a student of mine, ask me for a voucher.-->

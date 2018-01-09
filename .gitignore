@@ -1,3 +1,6 @@
 make_book.txt 
 .ipynb_checkpoints
+gym-maze/
+gym-minigrid/
 sutton_barto/__pycache__
+*.ipynb
