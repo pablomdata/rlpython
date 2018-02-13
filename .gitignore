@@ -3,4 +3,3 @@ make_book.txt
 gym-maze/
 gym-minigrid/
 sutton_barto/__pycache__
-*.ipynb
